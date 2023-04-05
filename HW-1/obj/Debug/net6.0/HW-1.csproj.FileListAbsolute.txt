@@ -1,0 +1,15 @@
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/obj/Debug/net6.0/HW-1.csproj.AssemblyReference.cache
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/obj/Debug/net6.0/HW-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/obj/Debug/net6.0/HW-1.AssemblyInfoInputs.cache
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/obj/Debug/net6.0/HW-1.AssemblyInfo.cs
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/obj/Debug/net6.0/HW-1.csproj.CoreCompileInputs.cache
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/bin/Debug/net6.0/HW-1
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/bin/Debug/net6.0/HW-1.deps.json
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/bin/Debug/net6.0/HW-1.runtimeconfig.json
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/bin/Debug/net6.0/HW-1.dll
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/bin/Debug/net6.0/ref/HW-1.dll
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/bin/Debug/net6.0/HW-1.pdb
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/obj/Debug/net6.0/HW-1.dll
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/obj/Debug/net6.0/ref/HW-1.dll
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/obj/Debug/net6.0/HW-1.pdb
+/home/zharko/Documents/SEAVUS/Homeworks-CSharpAdvanced/HW-1/obj/Debug/net6.0/HW-1.genruntimeconfig.cache
