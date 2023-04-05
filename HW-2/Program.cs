@@ -30,5 +30,10 @@ RepairService majstorZaSiteKoli = new RepairService();
 majstorZaSiteKoli.CheckVehicle();
 majstorZaSiteKoli.FixVehicle();
 
-
+CarCenter seksiMotors = new CarCenter();
+seksiMotors.FixVehicle();
+seksiMotors.CheckVehicle();
+seksiMotors.PumpGas();
+seksiMotors.WashCar();
+seksiMotors.WashTrailer();
 

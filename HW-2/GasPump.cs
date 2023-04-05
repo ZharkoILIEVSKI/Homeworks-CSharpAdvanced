@@ -4,6 +4,6 @@ public class GasPump : IGasPump
 {
     public void PumpGas()
     {
-        System.Console.WriteLine("Ajde da natankame...");
+        System.Console.WriteLine("Voziloto e NAPOLNETO so gorivo...");
     }
 }
