@@ -1,0 +1,5 @@
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homework--CSharp--Advanced/Homeworks-CSharpAdvanced/HW-3/obj/Debug/net6.0/HW-3.csproj.AssemblyReference.cache
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homework--CSharp--Advanced/Homeworks-CSharpAdvanced/HW-3/obj/Debug/net6.0/HW-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homework--CSharp--Advanced/Homeworks-CSharpAdvanced/HW-3/obj/Debug/net6.0/HW-3.AssemblyInfoInputs.cache
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homework--CSharp--Advanced/Homeworks-CSharpAdvanced/HW-3/obj/Debug/net6.0/HW-3.AssemblyInfo.cs
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homework--CSharp--Advanced/Homeworks-CSharpAdvanced/HW-3/obj/Debug/net6.0/HW-3.csproj.CoreCompileInputs.cache
