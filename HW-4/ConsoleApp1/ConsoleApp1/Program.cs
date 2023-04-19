@@ -183,7 +183,7 @@ Console.WriteLine("----------------------------");
 Console.WriteLine("Printing all Freddy`s dogs names older than 1 year: ");
 Console.WriteLine("");
 
-List<Dog> allFreddyDogsOlderThanOneYear = DatabaseDB.dogList.Where(x => x.NameOfOwner =="Freedy").OrderBy(y => y.AgeOfDog > 1).ToList();
+List<Dog> allFreddyDogsOlderThanOneYear = DatabaseDB.dogList.Where(x => x.NameOfOwner =="Freddy").OrderBy(y => y.AgeOfDog > 1).ToList();
 
 foreach (Dog d in allFreddyDogsOlderThanOneYear)
 {
@@ -197,7 +197,7 @@ Console.WriteLine("");
 
 List<Dog> nathensFirstDog = DatabaseDB.dogList.Where(x => x.NameOfOwner == "Nathen").OrderByDescending(y => y.AgeOfDog).ToList();
 
-foreach (Dog d in allFreddyDogsOlderThanOneYear)
+foreach (Dog d in nathensFirstDog)
 {
     Console.WriteLine(d.Name + " " + d.AgeOfDog);
 }
@@ -207,7 +207,7 @@ Console.WriteLine("----------------------------");
 Console.WriteLine("Printing all white dogs names from Cristofer, Freddy, Erin and Amelia, ordered by Name - ASCENDING ORDER: ");
 Console.WriteLine("");
 
-List<Dog> allWhiteDogNamesFromCFEA = DatabaseDB.dogList.Where(x =>  x.NameOfOwner == "Cristopher" && x.NameOfOwner == "Erin" && x.NameOfOwner == "Amelia" && x.NameOfOwner == "Freddy").Where(x => x.DogsColor =="white").OrderBy(y => y.Name).ToList();
+List<Dog> allWhiteDogNamesFromCFEA = DatabaseDB.dogList.Where(x =>  x.NameOfOwner == "Cristopher" || x.NameOfOwner == "Erin" || x.NameOfOwner == "Amelia" || x.NameOfOwner == "Freddy").Where(x => x.DogsColor =="white").OrderBy(y => y.Name).ToList();
 
 foreach (Dog d in allWhiteDogNamesFromCFEA)
 {
