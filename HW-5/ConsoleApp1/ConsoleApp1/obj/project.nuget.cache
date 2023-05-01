@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+PpEiaHkYFWTAEJXPV8KMzFz+RgCdAdsZF7VULavgF5GCAJ7Gu5R1aNb3XGgn1ry9EFCLQcPjAdLz0EOvJt4pw==",
+  "success": true,
+  "projectFilePath": "D:\\Homework-C#Advanced\\HW-5\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PowerCube\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
