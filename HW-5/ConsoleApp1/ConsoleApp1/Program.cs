@@ -47,7 +47,7 @@ Console.WriteLine();
 Console.Write("Vnesete ime na kuce: ");
 string name = Console.ReadLine();
 
-Console.Write("Vnesete startost na kuce: ");
+Console.Write("Vnesete starost na kuce: ");
 int age = int.Parse(Console.ReadLine());
 
 Console.Write("Vnesete boja na kuce: ");
