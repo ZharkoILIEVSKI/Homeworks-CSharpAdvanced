@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HW-4"
+    "\\HW-6",
+    "\\HW-6\\TimeTracking2023.App",
+    "\\HW-6\\TimeTracking2023.Domain",
+    "\\HW-6\\TimeTracking2023.Domain\\Entities"
   ],
-  "SelectedNode": "\\HW-4",
+  "SelectedNode": "\\HW-6\\TimeTracking2023.Domain\\Entities",
   "PreviewInSolutionExplorer": false
 }

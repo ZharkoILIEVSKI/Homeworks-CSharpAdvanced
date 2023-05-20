@@ -1,0 +1,15 @@
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\bin\Debug\net6.0\TimeTracking2023.exe
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\bin\Debug\net6.0\TimeTracking2023.deps.json
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\bin\Debug\net6.0\TimeTracking2023.runtimeconfig.json
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\bin\Debug\net6.0\TimeTracking2023.dll
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\bin\Debug\net6.0\TimeTracking2023.pdb
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\TimeTracking2023.csproj.AssemblyReference.cache
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\TimeTracking2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\TimeTracking2023.AssemblyInfoInputs.cache
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\TimeTracking2023.AssemblyInfo.cs
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\TimeTracking2023.csproj.CoreCompileInputs.cache
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\TimeTracking2023.dll
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\refint\TimeTracking2023.dll
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\TimeTracking2023.pdb
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\TimeTracking2023.genruntimeconfig.cache
+D:\Homework-C#Advanced\HW-6\TimeTracking2023.App\obj\Debug\net6.0\ref\TimeTracking2023.dll
